@@ -39,3 +39,8 @@
 
 # debug information files
 *.dwo
+
+# Added
+CLAUDE.md
+notes/
+MINISENSOR_PROJECT_PLAN.md
