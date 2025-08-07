@@ -1,4 +1,5 @@
-# MiniSensor
+# mini-sensor
+Treating a Pi as an embedded sensor, not a computer. Why? For the fun of concurrent & low-latency C++, custom protocols, and building what's usually hidden inside any real sensor (LiDAR, radar, IMU, etc.).
 
 ## What is this?
 
